@@ -60,16 +60,6 @@ In addition to NASA Space Apps, we actively participate in **TÜBİTAK**, **Tekn
 
 ---
 
-## 👥 Core Team Members
-| Role | Name | GitHub |
-|------|------|---------|
-| 🧠 AI Systems Engineer | [Member 1] | [github.com/member1] |
-| 🌍 Simulation Developer | [Member 2] | [github.com/member2] |
-| 💻 Frontend Engineer | [Member 3] | [github.com/member3] |
-| ⚙️ Backend & Infrastructure | [Member 4] | [github.com/member4] |
-
----
-
 ## 📫 Connect With Us
 🌐 Website: [melut.cloud](https://melut.cloud)  
 💬 Discord: [Lora Yazılım / MarsHabitat](https://discord.gg/UskFC4cA9p)  
