@@ -1,61 +1,82 @@
-<h1 align="center">🚀 Mars Habitat Ecosystem Simulation</h1>
+<h1 align="center">🪐 Mars Habitat Organization</h1>
 <p align="center">
-  <strong>NASA Space Apps Challenge 2025</strong> • <em>Creating a sustainable habitat system on Mars</em>
+  <strong>Innovating sustainable life on Mars 🌌</strong><br>
+  <em>NASA Space Apps Challenge 2025 · TÜBİTAK · Teknofest Participants</em>
 </p>
 
 <p align="center">
-  <a href="https://spaceappschallenge.org/">
-    <img src="https://img.shields.io/badge/NASA%20Space%20Apps-2025-blue?style=flat-square&logo=nasa&logoColor=white" alt="NASA Space Apps 2025">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Category-Science%20%26%20Engineering-orange?style=flat-square">
-  </a>
-  <a href="https://github.com/amhunter1">
-    <img src="https://img.shields.io/badge/Owner-Melüt%20(amhunter1)-blueviolet?style=flat-square">
-  </a>
+  <a href="https://spaceappschallenge.org/"><img src="https://img.shields.io/badge/NASA%20Space%20Apps-2025-blue?style=for-the-badge&logo=nasa&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TÜBİTAK-Participant-red?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Teknofest-Innovators-orange?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mars%20Research%20Hub-AI%20Driven%20Innovation-brightgreen?style=for-the-badge" /></a>
 </p>
 
 ---
 
-## 🌍 Project Overview
-The **Mars Habitat Ecosystem Simulation** is a multidisciplinary project designed for the NASA Space Apps Challenge 2025.  
-Our goal is to design a **sustainable, autonomous habitat management system for Mars**, integrating environmental modeling, energy optimization, and AI-driven life support predictions.
+## 🌍 About Us
+We are a multidisciplinary research and development team dedicated to creating sustainable and intelligent systems for extraterrestrial habitats.  
+Our organization was founded around our **NASA Space Apps Challenge 2025** project — *Mars Habitat Ecosystem Simulation* — which focuses on designing a smart, autonomous living system for Mars colonization.
 
-This project aims to:
-- 🏠 Simulate modular Mars habitat structures  
-- ☀️ Model power generation via solar arrays  
-- 💧 Regulate water and oxygen circulation automatically  
-- 🧠 Use AI to predict system failures and optimize resource usage  
+In addition to NASA Space Apps, we actively participate in **TÜBİTAK**, **Teknofest**, and various international innovation programs.
+
+> 🧠 *“Building the next generation of human life support technology — one simulation at a time.”*
 
 ---
 
-## 🧠 Technical Architecture
-| Layer | Technology | Purpose |
-|-------|-------------|----------|
-| **Frontend** | React + TailwindCSS | Visualization dashboard (oxygen, temperature, energy, etc.) |
-| **Backend** | Node.js + Express | Core API for data flow and environment control |
-| **AI Engine** | Python (TensorFlow + SciPy) | Prediction & anomaly detection for habitat systems |
-| **Simulation Core** | Java | Physical simulation for Mars atmospheric and habitat models |
-| **Database** | PostgreSQL + Redis | Efficient data storage and caching |
+## 🚀 Vision & Mission
+- Design **AI-powered habitat management systems** for Mars and beyond.  
+- Develop open-source simulation frameworks for planetary ecosystems.  
+- Collaborate with educational and research institutions to improve sustainability and human adaptation on other planets.
 
 ---
 
-## 🛰️ Features
-- 🔋 Energy management module (solar array + battery simulation)  
-- 💧 Environmental control (humidity, O₂, CO₂ balance)  
-- 🤖 AI-based resource forecasting  
-- 🌡️ Interactive dashboard for mission status  
-- 🧩 Modular habitat connection system  
+## 🛰️ Our Projects
+| Project | Description | Technologies |
+|----------|--------------|--------------|
+| **Mars Habitat Ecosystem Simulation** | A sustainable, modular Mars habitat model with autonomous control. | Java, Node.js, React, TensorFlow |
+| **Habitat AI Core** | Predictive life-support AI that models oxygen, water, and power balance. | Python, SciPy, TensorFlow |
+| **Lora Framework** | Modular backend system developed by our R&D subteam. | Node.js, Express, PostgreSQL |
 
 ---
 
-## 🧪 Research & Competitions
-This project has been designed and extended for multiple innovation platforms:
-- 🪐 **NASA Space Apps Challenge 2025 – Aksaray Regional Winner**  
-- 🚀 **TÜBİTAK & Teknofest Competitions – Active Participant**  
-- 🌍 **Lora Yazılım Inc Ltd. Research Project (AI Habitat Systems)**  
+## 🧰 Technology Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,python,postgres,git,linux" />
+</p>
 
 ---
 
-## 🧰 Installation (Development Setup)
-```bash
+## 🏆 Achievements
+- 🥇 **NASA Space Apps Challenge 2025 – Aksaray Regional Winner**  
+- 🚀 **TÜBİTAK & Teknofest – Active Participant**  
+- 🧩 **Open Source Contributions** in simulation and automation systems  
+- 🌌 **Community Outreach** through open research and documentation  
+
+---
+
+## 👨‍🚀 Organization Owner
+**Melüt ([@amhunter1](https://github.com/amhunter1))**  
+*Founder & Lead Developer – Lora Yazılım Inc Ltd.*
+
+---
+
+## 👥 Core Team Members
+| Role | Name | GitHub |
+|------|------|---------|
+| 🧠 AI Systems Engineer | [Member 1] | [github.com/member1] |
+| 🌍 Simulation Developer | [Member 2] | [github.com/member2] |
+| 💻 Frontend Engineer | [Member 3] | [github.com/member3] |
+| ⚙️ Backend & Infrastructure | [Member 4] | [github.com/member4] |
+
+---
+
+## 📫 Connect With Us
+🌐 Website: [melut.cloud](https://melut.cloud)  
+💬 Discord: [Lora Yazılım / MarsHabitat](https://discord.gg/UskFC4cA9p)  
+🔗 GitHub: [@amhunter1](https://github.com/amhunter1)
+
+---
+
+<p align="center">
+  <sub>© 2025 Mars Habitat Organization — Developing sustainable life for the next generation of explorers.</sub>
+</p>
